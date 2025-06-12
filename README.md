@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a basic recipe website. This website consists of a main index page with links to a few recipes. The skills used for this project are the following: creating, organizing, and linking html and image files.
